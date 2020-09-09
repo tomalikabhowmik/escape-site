@@ -1,17 +1,267 @@
-/*Extra small device(smart phones, less than 361px)*/
-@media (min-width: 320px) and (max-width: 360.98px) {}
+/*Extra small device(Mobile (e.g. Apple iPhone) less than 361px)*/
+@media (min-width: 320px) and (max-width: 374.98px) {
 
-/*Extra small device(portrant phones, 361px and up)*/
-@media (min-width: 480px) and (max-width: 575.98px) {}
+    /*header-part start*/
+    .navbar-toggler {
+        padding: 3px 8px;
+        font-size: 10px;
+        line-height: 1;
+        background-color: #fff;
+    }
 
-/*Small device(landscape phones, 576px and up)*/
-@media (min-width: 576px) and (max-width: 767.98px) {}
+    .navbar-nav {
+        float: right;
+        text-align: center;
+        padding-top: 20px;
+    }
 
-/*medium device(tablets, 768px and up)*/
-@media (min-width: 768px) and (max-width: 991.98px) {}
+    .header-part .img-fluid {
+        max-width: 75%;
+    }
+
+    .header-part a:hover {
+        color: rgb(241, 163, 163) !important;
+    }
+
+    .header-part {
+        height: 26vh;
+    }
+
+    .header-contant {
+        padding-top: 25%;
+    }
+
+    .header-contant h1 {
+        font-size: 25px;
+    }
+
+    .header-contant h3 {
+        font-size: 13px;
+    }
+
+    .btn-custom {
+        padding: 8px 20px;
+        font-size: 13px;
+    }
+
+    /*header-part end*/
+}
+
+/* small device(Apple iPhone 7, less than 361px)*/
+@media (min-width: 375px) and (max-width: 413.98px) {
+
+    /*header-part start*/
+    .navbar-toggler {
+        padding: 4px 10px;
+        font-size: 12px;
+        line-height: 1;
+        background-color: #fff;
+    }
+
+    .navbar-nav {
+        float: right;
+        text-align: center;
+        padding-top: 20px;
+    }
+
+    .header-part .img-fluid {
+        max-width: 93%;
+    }
+
+    .header-part a:hover {
+        color: rgb(241, 163, 163) !important;
+    }
+
+    .header-part {
+        height: 30vh;
+    }
+
+    .header-contant {
+        padding-top: 28%;
+    }
+
+    .header-contant h1 {
+        font-size: 30px;
+    }
+
+    .header-contant h3 {
+        font-size: 13px;
+    }
+
+    .btn-custom {
+        padding: 10px 23px;
+        font-size: 15px;
+    }
+
+    /*header-part end*/
+}
+
+/* small device(Apple iPhone 7 Plus, 361px and up)*/
+@media (min-width: 414px) and (max-width: 559.98px) {
+
+    /*header-part start*/
+    .navbar-toggler {
+        padding: 4px 10px;
+        font-size: 12px;
+        line-height: 1;
+        background-color: #fff;
+    }
+
+    .navbar-nav {
+        float: right;
+        text-align: center;
+        padding-top: 20px;
+    }
+
+    .header-part .img-fluid {
+        max-width: 93%;
+    }
+
+    .header-part a:hover {
+        color: rgb(241, 163, 163) !important;
+    }
+
+    .header-part {
+        height: 35vh;
+    }
+
+    .header-contant {
+        padding-top: 32%;
+    }
+
+    .header-contant h1 {
+        font-size: 35px;
+    }
+
+    .header-contant h3 {
+        font-size: 16px;
+    }
+
+    .btn-custom {
+        padding: 10px 25px;
+        font-size: 16px;
+    }
+
+    /*header-part end*/
+}
+
+/*Small device(Small Tablet, 576px and up)*/
+@media (min-width: 600px) and (max-width: 767.98px) {
+
+    /*header-part start*/
+    .navbar-toggler {
+        padding: 5px 10px;
+        font-size: 15px;
+        line-height: 1;
+        background-color: #fff;
+    }
+
+    .navbar-nav {
+        float: right;
+        text-align: center;
+        padding-top: 20px;
+    }
+
+    .header-part a:hover {
+        color: rgb(241, 163, 163) !important;
+    }
+
+    .header-part {
+        height: 38vh;
+    }
+
+    .header-contant {
+        padding-top: 24%;
+    }
+
+    .header-contant h1 {
+        font-size: 40px;
+    }
+
+    .header-contant h3 {
+        font-size: 20px;
+    }
+
+    .btn-custom {
+        padding: 10px 30px;
+        font-size: 20px;
+    }
+
+    /*header-part end*/
+}
+
+/*medium device(Tablet 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /*header-part start*/
+    .navbar-toggler {
+        padding: 5px 10px;
+        font-size: 15px;
+        line-height: 1;
+        background-color: #fff;
+    }
+
+    .navbar-nav {
+        float: right;
+        text-align: center;
+        padding-top: 20px;
+    }
+
+    .header-part a:hover {
+        color: rgb(241, 163, 163) !important;
+    }
+
+    .header-part {
+        height: 44vh;
+    }
+
+    .header-contant {
+        padding-top: 24%;
+    }
+
+    .header-contant h1 {
+        font-size: 50px;
+    }
+
+    .header-contant h3 {
+        font-size: 23px;
+    }
+
+    .btn-custom {
+        padding: 12px 32px;
+        font-size: 24px;
+    }
+
+    /*header-part end*/
+}
 
 /*large device(desktops, 992px and up)*/
-@media (min-width: 992px) and (max-width: 1199.98px) {}
+@media (min-width: 992px) and (max-width: 1199.98px) {
 
-/*Extra large device(large desktops,1200px and up)*/
-@media (min-width: 1200px) {}
+    /*header-part start*/
+    .header-part {
+        height: 46vh;
+    }
+
+    .header-contant {
+        padding-top: 16%;
+    }
+
+    .header-contant h1 {
+        font-size: 57px;
+    }
+
+    .header-contant h3 {
+        font-size: 25px;
+    }
+
+    .btn-custom {
+        padding: 12px 32px;
+        font-size: 24px;
+    }
+
+    /*header-part end*/
+}
+
+/*Extra large device(Widescreen,1280px and up)*/
+@media (min-width: 1280px) {}
