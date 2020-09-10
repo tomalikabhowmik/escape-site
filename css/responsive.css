@@ -177,6 +177,97 @@
     }
 
     /*skill part end*/
+    /*clients part start*/
+    .clients-group {
+        margin: 0px 20px 50px 70px;
+    }
+
+    .clients-part {
+        padding: 40px 0px;
+    }
+
+    .clients-contant h2 {
+        font-size: 30px;
+    }
+
+    .clients-contant p {
+        font-size: 10px;
+    }
+
+    .clients-group {
+        margin: 0px 70px 125px 70px;
+    }
+
+    /* client1 part start*/
+    /*its for client1 image part*/
+    .client1-image img {
+        width: 120px;
+        height: 120px;
+        margin-left: -69px;
+    }
+
+    /*its for client1 contant part*/
+    .client1-contant .client1-p1 {
+        width: 95%;
+        font-size: 12px;
+        font-weight: 400;
+        color: #6d6969;
+        margin-bottom: 5px;
+    }
+
+    .client1-contant .client1-p2 {
+        font-size: 10px;
+    }
+
+    .client1-contant {
+        margin-top: 10px;
+        padding: 10px 0px 5px 10px;
+        margin-right: -77px;
+        margin-left: -15px;
+    }
+
+    .client1-contant::before {
+        left: -18px;
+        top: 44%;
+    }
+
+    /* client1 part end*/
+    /* client2 part start*/
+    /*its for client2 image part*/
+    .client2-image img {
+        margin-top: -239px;
+        width: 120px;
+        height: 120px;
+        margin-left: 73px;
+    }
+
+    /*its for client2 contant part*/
+    .client2-contant .client2-p1 {
+        width: 95%;
+        font-size: 12px;
+        font-weight: 400;
+        color: #6d6969;
+        margin-bottom: 5px;
+    }
+
+    .client2-contant .client2-p2 {
+        font-size: 10px;
+    }
+
+    .client2-contant {
+        padding: 10px 0px 5px 6px;
+        margin-left: -81px;
+        margin-right: -10px;
+        margin-bottom: -75px;
+    }
+
+    .client2-contant::after {
+        left: 95%;
+        top: 110%;
+    }
+
+    /*client2 part end*/
+    /*clients part end*/
 }
 
 /* small device(Apple iPhone 7, less than 361px)*/
@@ -355,6 +446,97 @@
     }
 
     /*skill part end*/
+    /*clients part start*/
+    .clients-group {
+        margin: 0px 20px 50px 70px;
+    }
+
+    .clients-part {
+        padding: 40px 0px;
+    }
+
+    .clients-contant h2 {
+        font-size: 30px;
+    }
+
+    .clients-contant p {
+        font-size: 10px;
+    }
+
+    .clients-group {
+        margin: 0px 70px 125px 70px;
+    }
+
+    /* client1 part start*/
+    /*its for client1 image part*/
+    .client1-image img {
+        width: 120px;
+        height: 120px;
+        margin-left: -88px;
+    }
+
+    /*its for client1 contant part*/
+    .client1-contant .client1-p1 {
+        width: 95%;
+        font-size: 12px;
+        font-weight: 400;
+        color: #6d6969;
+        margin-bottom: 5px;
+    }
+
+    .client1-contant .client1-p2 {
+        font-size: 10px;
+    }
+
+    .client1-contant {
+        margin-top: 10px;
+        padding: 20px 0px 5px 15px;
+        margin-right: -77px;
+        margin-left: 36px;
+    }
+
+    .client1-contant::before {
+        left: 32px;
+        top: 44%;
+    }
+
+    /* client1 part end*/
+    /* client2 part start*/
+    /*its for client2 image part*/
+    .client2-image img {
+        margin-top: -239px;
+        width: 120px;
+        height: 120px;
+        margin-left: 133px;
+    }
+
+    /*its for client2 contant part*/
+    .client2-contant .client2-p1 {
+        width: 95%;
+        font-size: 12px;
+        font-weight: 400;
+        color: #6d6969;
+        margin-bottom: 5px;
+    }
+
+    .client2-contant .client2-p2 {
+        font-size: 10px;
+    }
+
+    .client2-contant {
+        padding: 20px 0px 5px 10px;
+        margin-left: -81px;
+        margin-right: 46px;
+        margin-bottom: -75px;
+    }
+
+    .client2-contant::after {
+        left: 69%;
+        top: 105%;
+    }
+
+    /*client2 part end*/
+    /*clients part end*/
 }
 
 /* small device(Apple iPhone 7 Plus, 361px and up)*/
@@ -529,6 +711,97 @@
     }
 
     /*skill part end*/
+    /*clients part start*/
+    .clients-group {
+        margin: 0px 20px 50px 70px;
+    }
+
+    .clients-part {
+        padding: 40px 0px;
+    }
+
+    .clients-contant h2 {
+        font-size: 30px;
+    }
+
+    .clients-contant p {
+        font-size: 10px;
+    }
+
+    .clients-group {
+        margin: 0px 70px 125px 70px;
+    }
+
+    /* client1 part start*/
+    /*its for client1 image part*/
+    .client1-image img {
+        width: 120px;
+        height: 120px;
+        margin-left: -88px;
+    }
+
+    /*its for client1 contant part*/
+    .client1-contant .client1-p1 {
+        width: 95%;
+        font-size: 12px;
+        font-weight: 400;
+        color: #6d6969;
+        margin-bottom: 5px;
+    }
+
+    .client1-contant .client1-p2 {
+        font-size: 10px;
+    }
+
+    .client1-contant {
+        margin-top: 10px;
+        padding: 20px 0px 5px 10px;
+        margin-right: -77px;
+        margin-left: 36px;
+    }
+
+    .client1-contant::before {
+        left: 32px;
+        top: 44%;
+    }
+
+    /* client1 part end*/
+    /* client2 part start*/
+    /*its for client2 image part*/
+    .client2-image img {
+        margin-top: -239px;
+        width: 120px;
+        height: 120px;
+        margin-left: 154px;
+    }
+
+    /*its for client2 contant part*/
+    .client2-contant .client2-p1 {
+        width: 95%;
+        font-size: 12px;
+        font-weight: 400;
+        color: #6d6969;
+        margin-bottom: 5px;
+    }
+
+    .client2-contant .client2-p2 {
+        font-size: 10px;
+    }
+
+    .client2-contant {
+        padding: 20px 0px 5px 15px;
+        margin-left: -81px;
+        margin-right: 58px;
+        margin-bottom: -75px;
+    }
+
+    .client2-contant::after {
+        left: 69%;
+        top: 105%;
+    }
+
+    /*client2 part end*/
+    /*clients part end*/
 }
 
 /*Small device(Small Tablet, 576px and up)*/
@@ -691,6 +964,97 @@
     }
 
     /*skill part end*/
+    /*clients part start*/
+    .clients-group {
+        margin: 0px 20px 50px 70px;
+    }
+
+    .clients-part {
+        padding: 40px 0px;
+    }
+
+    .clients-contant h2 {
+        font-size: 40px;
+    }
+
+    .clients-contant p {
+        font-size: 13px;
+    }
+
+    .clients-group {
+        margin: 0px 70px 125px 70px;
+    }
+
+    /* client1 part start*/
+    /*its for client1 image part*/
+    .client1-image img {
+        width: 150px;
+        height: 150px;
+        margin-left: -88px;
+    }
+
+    /*its for client1 contant part*/
+    .client1-contant .client1-p1 {
+        width: 97%;
+        font-size: 13px;
+        font-weight: 400;
+        color: #6d6969;
+        margin-bottom: 5px;
+    }
+
+    .client1-contant .client1-p2 {
+        font-size: 12px;
+    }
+
+    .client1-contant {
+        margin-top: 10px;
+        padding: 20px 0px 10px 26px;
+        margin-right: -85px;
+        margin-left: 68px;
+    }
+
+    .client1-contant::before {
+        left: 68px;
+        top: 44%;
+    }
+
+    /* client1 part end*/
+    /* client2 part start*/
+    /*its for client2 image part*/
+    .client2-image img {
+        margin-top: -239px;
+        width: 150px;
+        height: 150px;
+        margin-left: 281px;
+    }
+
+    /*its for client2 contant part*/
+    .client2-contant .client2-p1 {
+        width: 97%;
+        font-size: 13px;
+        font-weight: 400;
+        color: #6d6969;
+        margin-bottom: 5px;
+    }
+
+    .client2-contant .client2-p2 {
+        font-size: 12px;
+    }
+
+    .client2-contant {
+        padding: 20px 0px 10px 26px;
+        margin-left: -95px;
+        margin-right: 84px;
+        margin-bottom: -58px;
+    }
+
+    .client2-contant::after {
+        left: 72%;
+        top: 91%;
+    }
+
+    /*client2 part end*/
+    /*clients part end*/
 }
 
 /*medium device(Tablet 768px and up)*/
@@ -836,6 +1200,87 @@
     }
 
     /*skill part end*/
+    /*clients part start*/
+    .clients-part {
+        padding: 40px 0px;
+    }
+
+    .clients-contant h2 {
+        font-size: 40px;
+    }
+
+    .clients-contant p {
+        font-size: 13px;
+    }
+
+    .clients-group {
+        margin: 0px 70px 40px 70px;
+    }
+
+    /* client1 part start*/
+    /*its for client1 image part*/
+    .client1-image img {
+        width: 150px;
+        height: 150px;
+        margin-left: -37px;
+    }
+
+    /*its for client1 contant part*/
+    .client1-contant .client1-p1 {
+        width: 97%;
+        font-size: 13px;
+        font-weight: 400;
+        color: #6d6969;
+        margin-bottom: 5px;
+    }
+
+    .client1-contant .client1-p2 {
+        font-size: 12px;
+    }
+
+    .client1-contant {
+        margin-top: 20px;
+        padding: 20px 0px 10px 15px;
+    }
+
+    .client1-contant::before {
+        left: -4px;
+        top: 42%;
+    }
+
+    /* client1 part end*/
+    /* client2 part start*/
+    /*its for client2 image part*/
+    .client2-image img {
+        margin-top: 26px;
+        width: 150px;
+        height: 150px;
+    }
+
+    /*its for client2 contant part*/
+    .client2-contant .client2-p1 {
+        width: 97%;
+        font-size: 13px;
+        font-weight: 400;
+        color: #6d6969;
+        margin-bottom: 5px;
+    }
+
+    .client2-contant .client2-p2 {
+        font-size: 12px;
+    }
+
+    .client2-contant {
+        padding: 20px 0px 10px 15px;
+    }
+
+    .client2-contant::after {
+        left: 95%;
+        top: 55%;
+    }
+
+    /*client2 part end*/
+    /*clients part end*/
 }
 
 /*large device(desktops, 992px and up)*/
@@ -864,6 +1309,36 @@
     }
 
     /*header-part end*/
+    /*clients part start*/
+    /*its for client1 image part*/
+    .client1-image img {
+        width: 250px;
+        height: 250px;
+        border-radius: 50%;
+        border: 6px solid #7e6d6d;
+        margin-left: -37px;
+    }
+
+    /*its for client1 contant part*/
+    .client1-contant .client1-p1 {
+        width: 93%;
+    }
+
+    .client1-contant {
+        padding: 30px 0px 20px 30px;
+    }
+
+    /*its for client1 contant part*/
+    .client2-contant .client2-p1 {
+        width: 93%;
+    }
+
+    .client2-contant {
+        margin-top: 50px;
+        padding: 30px 0px 20px 30px;
+    }
+
+    /*clients part end*/
 }
 
 /*Extra large device(Widescreen,1280px and up)*/

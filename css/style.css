@@ -27,7 +27,7 @@ body {
 
 /*header-contant area start*/
 .header-contant {
-    padding-top: 21%;
+    padding-top: 15%;
 }
 
 .header-contant h3 {
@@ -169,3 +169,117 @@ body {
 }
 
 /*skill part end*/
+/*clients-part start*/
+.clients-part {
+    margin-top: 30px;
+    background-color: #f1f1f1;
+    padding: 70px 0px;
+}
+
+.clients-contant {
+    padding-bottom: 40px;
+}
+
+.clients-contant h2 {
+    font-size: 45px;
+}
+
+.clients-contant p {
+    font-size: 15px;
+    font-weight: 300;
+    color: #6d6969;
+}
+
+/*its for all clients part*/
+.clients-group {
+    margin: 0px 70px 50px 70px;
+}
+
+/*its for client1-image part*/
+.client1-image img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 6px solid #7e6d6d;
+}
+
+/*its for client1-contant part*/
+.client1-contant {
+    margin-top: 50px;
+    padding: 30px 0px 20px 70px;
+    background-color: #ffffff;
+    border: 0.5px solid #e4e0e0;
+}
+
+.client1-contant .client1-p1 {
+    width: 73%;
+    font-size: 18px;
+    font-weight: 400;
+    color: #6d6969;
+    margin-bottom: 5px;
+}
+
+.client1-contant .client1-p2 {
+    font-size: 16px;
+    font-weight: 400;
+    color: #7690c5;
+}
+
+.client1-contant::before {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-top: 10px solid transparent;
+    border-right: 20px solid #ffffff;
+    border-bottom: 10px solid transparent;
+    left: -4px;
+    top: 45%;
+}
+
+/*its for client2-image part*/
+.client2-image img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 6px solid #7e6d6d;
+    margin-left: 42px;
+}
+
+/*its for client2-contant part*/
+.client2-contant {
+    margin-top: 50px;
+    padding: 30px 0px 20px 70px;
+    background-color: #ffffff;
+    border: 0.5px solid #e4e0e0;
+}
+
+.client2-contant .client2-p1 {
+    width: 73%;
+    font-size: 18px;
+    font-weight: 400;
+    color: #6d6969;
+    margin-bottom: 5px;
+}
+
+.client2-contant .client2-p2 {
+    font-size: 16px;
+    font-weight: 400;
+    color: #7690c5;
+}
+
+.client2-contant::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-top: 10px solid transparent;
+    border-left: 20px solid #ffffff;
+    border-bottom: 10px solid transparent;
+    left: 97%;
+    top: 45%;
+}
+
+}
+
+/*clients-part end*/
