@@ -291,6 +291,69 @@
     }
 
     /*logos part end*/
+    /*team part start*/
+    .team-part {
+        padding: 30px 0px;
+    }
+
+    /* its for team content part*/
+    .team-content h2 {
+        font-size: 25px;
+        color: #ffffff;
+        margin-bottom: 5px;
+    }
+
+    .team-content p {
+        font-size: 10px;
+        font-weight: 300;
+        color: #a1a0a0;
+    }
+
+    /*its for team-profile area*/
+    .profile-image {
+        margin-top: 30px;
+    }
+
+    .profile-image img {
+        width: 150px;
+        height: 150px;
+        border: 6px solid #f5f3f7;
+    }
+
+    /*its for profile-title part*/
+    .profile-title h4 {
+        font-size: 14px;
+        padding: 15px 0px 0px 0px;
+    }
+
+    .profile-title h5 {
+        font-size: 12px;
+        padding: 0px 0px 5px 0px;
+    }
+
+    /*its for profile-social-media part*/
+    .profile-social-media ul li {
+        width: 28px;
+        height: 28px;
+        border-radius: 50%;
+        border: 2px solid #ffffff;
+    }
+
+    .profile-social-media a {
+        color: #ffffff;
+        text-align: center;
+        font-size: 14px;
+
+    }
+
+    /*its for team part footer*/
+    .team-part-footer p {
+        width: 87%;
+        font-size: 11px;
+        margin: 30px 21px 20px 21px;
+    }
+
+    /*team part end*/
 }
 
 /* small device(Apple iPhone 7, less than 361px)*/
@@ -583,6 +646,69 @@
     }
 
     /*logos part end*/
+    /*team part start*/
+    .team-part {
+        padding: 30px 0px;
+    }
+
+    /* its for team content part*/
+    .team-content h2 {
+        font-size: 25px;
+        color: #ffffff;
+        margin-bottom: 5px;
+    }
+
+    .team-content p {
+        font-size: 10px;
+        font-weight: 300;
+        color: #a1a0a0;
+    }
+
+    /*its for team-profile area*/
+    .profile-image {
+        margin-top: 30px;
+    }
+
+    .profile-image img {
+        width: 150px;
+        height: 150px;
+        border: 6px solid #f5f3f7;
+    }
+
+    /*its for profile-title part*/
+    .profile-title h4 {
+        font-size: 14px;
+        padding: 15px 0px 0px 0px;
+    }
+
+    .profile-title h5 {
+        font-size: 12px;
+        padding: 0px 0px 5px 0px;
+    }
+
+    /*its for profile-social-media part*/
+    .profile-social-media ul li {
+        width: 28px;
+        height: 28px;
+        border-radius: 50%;
+        border: 2px solid #ffffff;
+    }
+
+    .profile-social-media a {
+        color: #ffffff;
+        text-align: center;
+        font-size: 14px;
+
+    }
+
+    /*its for team part footer*/
+    .team-part-footer p {
+        width: 87%;
+        font-size: 12px;
+        margin: 30px 24px 20px 24px;
+    }
+
+    /*team part end*/
 }
 
 /* small device(Apple iPhone 7 Plus, 361px and up)*/
@@ -871,6 +997,69 @@
     }
 
     /*logos part end*/
+    /*team part start*/
+    .team-part {
+        padding: 40px 0px;
+    }
+
+    /* its for team content part*/
+    .team-content h2 {
+        font-size: 30px;
+        color: #ffffff;
+        margin-bottom: 5px;
+    }
+
+    .team-content p {
+        font-size: 12px;
+        font-weight: 300;
+        color: #a1a0a0;
+    }
+
+    /*its for team-profile area*/
+    .profile-image {
+        margin-top: 50px;
+    }
+
+    .profile-image img {
+        width: 200px;
+        height: 200px;
+        border: 6px solid #f5f3f7;
+    }
+
+    /*its for profile-title part*/
+    .profile-title h4 {
+        font-size: 15px;
+        padding: 15px 0px 0px 0px;
+    }
+
+    .profile-title h5 {
+        font-size: 12px;
+        padding: 0px 0px 5px 0px;
+    }
+
+    /*its for profile-social-media part*/
+    .profile-social-media ul li {
+        width: 28px;
+        height: 28px;
+        border-radius: 50%;
+        border: 2px solid #ffffff;
+    }
+
+    .profile-social-media a {
+        color: #ffffff;
+        text-align: center;
+        font-size: 16px;
+
+    }
+
+    /*its for team part footer*/
+    .team-part-footer p {
+        width: 87%;
+        font-size: 12px;
+        margin: 40px 24px 30px 24px;
+    }
+
+    /*team part end*/
 }
 
 /*Small device(Small Tablet, 576px and up)*/
@@ -1135,6 +1324,69 @@
     }
 
     /*logos part end*/
+    /*team part start*/
+    .team-part {
+        padding: 40px 0px;
+    }
+
+    /* its for team content part*/
+    .team-content h2 {
+        font-size: 40px;
+        color: #ffffff;
+        margin-bottom: 5px;
+    }
+
+    .team-content p {
+        font-size: 15px;
+        font-weight: 300;
+        color: #a1a0a0;
+    }
+
+    /*its for team-profile area*/
+    .profile-image {
+        margin-top: 60px;
+    }
+
+    .profile-image img {
+        width: 200px;
+        height: 200px;
+        border: 6px solid #f5f3f7;
+    }
+
+    /*its for profile-title part*/
+    .profile-title h4 {
+        font-size: 15px;
+        padding: 15px 0px 0px 0px;
+    }
+
+    .profile-title h5 {
+        font-size: 12px;
+        padding: 0px 0px 5px 0px;
+    }
+
+    /*its for profile-social-media part*/
+    .profile-social-media ul li {
+        width: 28px;
+        height: 28px;
+        border-radius: 50%;
+        border: 2px solid #ffffff;
+    }
+
+    .profile-social-media a {
+        color: #ffffff;
+        text-align: center;
+        font-size: 16px;
+
+    }
+
+    /*its for team part footer*/
+    .team-part-footer p {
+        width: 97%;
+        font-size: 13px;
+        margin: 40px 8px 30px 8px;
+    }
+
+    /*team part end*/
 }
 
 /*medium device(Tablet 768px and up)*/
@@ -1368,6 +1620,69 @@
     }
 
     /*logos part end*/
+    /*team part start*/
+    .team-part {
+        padding: 40px 0px;
+    }
+
+    /* its for team content part*/
+    .team-content h2 {
+        font-size: 40px;
+        color: #ffffff;
+        margin-bottom: 5px;
+    }
+
+    .team-content p {
+        font-size: 15px;
+        font-weight: 300;
+        color: #a1a0a0;
+    }
+
+    /*its for team-profile area*/
+    .profile-image {
+        margin-top: 60px;
+    }
+
+    .profile-image img {
+        width: 150px;
+        height: 150px;
+        border: 6px solid #f5f3f7;
+    }
+
+    /*its for profile-title part*/
+    .profile-title h4 {
+        font-size: 13px;
+        padding: 15px 0px 0px 0px;
+    }
+
+    .profile-title h5 {
+        font-size: 10px;
+        padding: 0px 0px 5px 0px;
+    }
+
+    /*its for profile-social-media part*/
+    .profile-social-media ul li {
+        width: 25px;
+        height: 25px;
+        border-radius: 50%;
+        border: 2px solid #ffffff;
+    }
+
+    .profile-social-media a {
+        color: #ffffff;
+        text-align: center;
+        font-size: 16px;
+
+    }
+
+    /*its for team part footer*/
+    .team-part-footer p {
+        width: 74%;
+        font-size: 14px;
+        margin: 40px 77px 30px 77px;
+    }
+
+    /*team part end*/
 }
 
 /*large device(desktops, 992px and up)*/
@@ -1433,6 +1748,18 @@
     }
 
     /*logos part end*/
+    /* team part start*/
+    .team-part {
+        padding: 60px 0px;
+    }
+
+    /*its for team part footer*/
+    .team-part-footer p {
+        width: 61%;
+        margin: 40px 171px 0px 171px;
+    }
+
+    /*team part end*/
 }
 
 /*Extra large device(Widescreen,1280px and up)*/

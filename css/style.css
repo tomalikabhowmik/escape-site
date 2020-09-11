@@ -279,10 +279,82 @@ body {
     left: 97%;
     top: 45%;
 }
+
 /*clients-part end*/
 /*logos part start*/
 .logos-part {
     text-align: center;
     padding: 50px 249px 50px 249px;
 }
+
 /*logos part end*/
+/*team part start*/
+.team-part {
+    background-color: #000000;
+    padding: 70px 0px;
+}
+
+/* its for team content part*/
+.team-content h2 {
+    font-size: 45px;
+    color: #ffffff;
+    margin-bottom: 5px;
+}
+
+.team-content p {
+    font-size: 16px;
+    font-weight: 300;
+    color: #a1a0a0;
+}
+
+/*its for team-profile area*/
+.profile-image {
+    margin-top: 70px;
+}
+
+.profile-image img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 6px solid #f5f3f7;
+}
+
+/*its for profile-title part*/
+.profile-title h4 {
+    font-size: 15px;
+    font-weight: 600;
+    padding: 15px 0px 0px 0px;
+    color: #ffffff;
+}
+
+.profile-title h5 {
+    font-size: 13px;
+    font-weight: 300;
+    padding: 0px 0px 5px 0px;
+    color: #d6d6d6;
+}
+
+/*its for profile-social-media part*/
+.profile-social-media ul li {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 2px solid #ffffff;
+}
+
+.profile-social-media a {
+    color: #ffffff;
+    text-align: center;
+}
+
+/*its for team part footer*/
+.team-part-footer p {
+    color: #ffffff;
+    width: 54%;
+    font-size: 16px;
+    font-weight: 300;
+    text-align: center;
+    margin: 40px 234px 30px 234px;
+}
+
+/*team part end*/
