@@ -94,7 +94,7 @@ body {
 /*branding part start*/
 .branding-part {
     margin-top: 30px;
-    background-color: #fafafa;
+    background-color: #f1f1f1;
     padding: 70px 0px;
 }
 
@@ -279,7 +279,10 @@ body {
     left: 97%;
     top: 45%;
 }
-
-}
-
 /*clients-part end*/
+/*logos part start*/
+.logos-part {
+    text-align: center;
+    padding: 50px 249px 50px 249px;
+}
+/*logos part end*/
