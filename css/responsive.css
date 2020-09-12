@@ -354,6 +354,76 @@
     }
 
     /*team part end*/
+    /*contact-submit-part start*/
+    /*contact part start*/
+    .contact-part {
+        margin: 30px 0px 0px 20px;
+    }
+
+    /* its for contact-title part*/
+    .contact-title h2 {
+        font-size: 28px;
+        margin-bottom: 10px;
+    }
+
+    .contact-title p {
+        color: #ffffff;
+        font-size: 12px;
+        font-weight: 300;
+        width: 85%;
+        margin-bottom: 20px;
+    }
+
+    /* its for contact address part*/
+    .contact-part ul li {
+        color: #ffffff;
+        padding-top: 3px;
+        font-size: 14px;
+        font-weight: 300;
+    }
+
+    .contact-part i {
+        font-size: 16px;
+    }
+
+    /*contact part start*/
+    /*its for submit-part*/
+    .submit-part {
+        margin: 30px 30px 10px 20px;
+    }
+
+    .submit-part input {
+        font-size: 12px;
+        padding: 8px 10px;
+    }
+
+    .submit-part textarea {
+        width: 100%;
+        font-size: 12px;
+        padding: 5px 0px 0px 10px;
+    }
+
+    /*its for button part*/
+    .btn-custom-1 {
+        padding: 5px 20px;
+        margin-top: 10px;
+        font-size: 12px;
+    }
+
+    /*contact-submit-part end*/
+    /*footer area start*/
+    .footer-part {
+        padding: 5px 0px 20px 0px;
+    }
+
+    .footer-part h5 {
+        font-size: 10px;
+        font-weight: 300;
+        color: #ffffff;
+        margin-top: 20px;
+    }
+
+    /*footer area end*/
 }
 
 /* small device(Apple iPhone 7, less than 361px)*/
@@ -709,6 +779,77 @@
     }
 
     /*team part end*/
+    /*contact-submit-part start*/
+    /*contact part start*/
+    .contact-part {
+        margin: 30px 0px 0px 20px;
+    }
+
+    /* its for contact-title part*/
+    .contact-title h2 {
+        color: #ffffff;
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+
+    .contact-title p {
+        color: #ffffff;
+        font-size: 12px;
+        font-weight: 300;
+        width: 85%;
+        margin-bottom: 20px;
+    }
+
+    /* its for contact address part*/
+    .contact-part ul li {
+        color: #ffffff;
+        padding-top: 3px;
+        font-size: 14px;
+        font-weight: 300;
+    }
+
+    .contact-part i {
+        font-size: 16px;
+    }
+
+    /*contact part start*/
+    /*its for submit-part*/
+    .submit-part {
+        margin: 30px 30px 30px 20px;
+    }
+
+    .submit-part input {
+        font-size: 13px;
+        padding: 10px 10px;
+    }
+
+    .submit-part textarea {
+        width: 100%;
+        font-size: 14px;
+        padding: 5px 0px 0px 10px;
+    }
+
+    /*its for button part*/
+    .btn-custom-1 {
+        padding: 6px 20px;
+        margin-top: 10px;
+        font-size: 14px;
+    }
+
+    /*contact-submit-part end*/
+    /*footer area start*/
+    .footer-part {
+        padding: 5px 0px 20px 0px;
+    }
+
+    .footer-part h5 {
+        font-size: 12px;
+        font-weight: 300;
+        color: #ffffff;
+        margin-top: 20px;
+    }
+
+    /*footer area end*/
 }
 
 /* small device(Apple iPhone 7 Plus, 361px and up)*/
@@ -1060,6 +1201,64 @@
     }
 
     /*team part end*/
+    /*contact-submit-part start*/
+    /*contact part start*/
+    .contact-part {
+        margin: 40px 0px 0px 30px;
+    }
+
+    /* its for contact-title part*/
+    .contact-title h2 {
+        color: #ffffff;
+        font-size: 35px;
+        margin-bottom: 15px;
+    }
+
+    .contact-title p {
+        color: #ffffff;
+        font-size: 13px;
+        font-weight: 300;
+        width: 85%;
+        margin-bottom: 20px;
+    }
+
+    /* its for contact address part*/
+    .contact-part ul li {
+        color: #ffffff;
+        padding-top: 4px;
+        font-size: 15px;
+        font-weight: 300;
+    }
+
+    .contact-part i {
+        font-size: 18px;
+    }
+
+    /*contact part start*/
+    /*its for submit-part*/
+    .submit-part {
+        margin: 30px 30px 30px 30px;
+    }
+
+    .submit-part input {
+        font-size: 14px;
+        padding: 15px 10px;
+    }
+
+    .submit-part textarea {
+        width: 100%;
+        font-size: 14px;
+        padding: 5px 0px 0px 10px;
+    }
+
+    /*its for button part*/
+    .btn-custom-1 {
+        padding: 6px 20px;
+        margin-top: 10px;
+        font-size: 14px;
+    }
+
+    /*contact-submit-part end*/
 }
 
 /*Small device(Small Tablet, 576px and up)*/
@@ -1387,6 +1586,66 @@
     }
 
     /*team part end*/
+    /*contact-submit-part start*/
+    /*contact part start*/
+    .contact-part {
+        margin: 40px 0px 0px 30px;
+    }
+
+    /* its for contact-title part*/
+    .contact-title h2 {
+        color: #ffffff;
+        font-size: 40px;
+        margin-bottom: 15px;
+    }
+
+    .contact-title p {
+        color: #ffffff;
+        font-size: 13px;
+        font-weight: 300;
+        width: 85%;
+        margin-bottom: 20px;
+    }
+
+    /* its for contact address part*/
+    .contact-part ul li {
+        color: #ffffff;
+        padding-top: 4px;
+        font-size: 15px;
+        font-weight: 300;
+    }
+
+    .contact-part i {
+        font-size: 18px;
+    }
+
+    /*contact part start*/
+    /*its for submit-part*/
+    .submit-part {
+        margin: 30px 30px 30px 30px;
+    }
+
+    .submit-part input {
+        font-size: 14px;
+        padding: 15px 10px;
+    }
+
+    .submit-part textarea {
+        width: 100%;
+        font-size: 14px;
+        padding: 5px 0px 0px 10px;
+    }
+
+    /*its for button part*/
+    .btn-custom-1 {
+        padding: 6px 20px;
+        margin-top: 10px;
+        font-size: 14px;
+    }
+
+    /*contact-submit-part end*/
+
+
 }
 
 /*medium device(Tablet 768px and up)*/
@@ -1683,7 +1942,47 @@
     }
 
     /*team part end*/
+    /*contact-submit part start
+    /* its for contact part*/
+    .contact-part {
+        margin: 80px 0px 70px 30px;
+    }
+
+    /* its for contact-title part*/
+    .contact-title h2 {
+        color: #ffffff;
+        font-size: 40px;
+        margin-bottom: 15px;
+    }
+
+    .contact-title p {
+        color: #ffffff;
+        font-size: 13px;
+        font-weight: 300;
+        width: 91%;
+        margin-bottom: 10px;
+    }
+
+    /* its for contact address part*/
+    .contact-part ul li {
+        color: #ffffff;
+        padding-top: 4px;
+        font-size: 15px;
+        font-weight: 300;
+    }
+
+    .contact-part i {
+        font-size: 18px;
+    }
+
+    /*its for submit-part*/
+    .submit-part {
+        margin: 90px 30px 50px 0px;
+    }
+
+    /*contact-submit part end*/
 }
+
 
 /*large device(desktops, 992px and up)*/
 @media (min-width: 992px) and (max-width: 1199.98px) {
@@ -1760,6 +2059,24 @@
     }
 
     /*team part end*/
+    /*contact part start*/
+    .contact-part {
+        margin: 80px 0px 70px 60px;
+    }
+
+    /* its for contact address part*/
+    .contact-part ul li {
+        color: #ffffff;
+        padding-top: 20px;
+        font-size: 13px;
+        font-weight: 300;
+    }
+
+    .contact-part i {
+        font-size: 16px;
+    }
+
+    /*contact part start*/
 }
 
 /*Extra large device(Widescreen,1280px and up)*/
